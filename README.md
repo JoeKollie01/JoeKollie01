@@ -1,30 +1,54 @@
 # Joe Kollie — Cloud Security Engineer
 
-Building AWS security infrastructure in public.
+> Building AWS security infrastructure in public.
 
-## 🔐 Current Focus
-- AWS Security Architecture & Detection Engineering
-- Infrastructure as Code with Terraform
-- MITRE ATT&CK detection library for AWS
-- AWS Solutions Architect Associate (In Progress)
+---
 
-## 🛠️ Featured Projects
+## 🔐 What I Build
 
-### [Secure Multi-Tier AWS VPC](https://github.com/JoeKollie01/aws-secure-multi-tier-vpc)
-Production-style 4-tier AWS VPC with least-privilege 
-security group chaining, VPC Flow Logs, and verified 
-security controls. All controls tested with live EC2.
+| Area | Focus |
+|------|-------|
+| AWS Security | VPC architecture · IAM · GuardDuty · Security Hub |
+| Detection Engineering | MITRE ATT&CK · CloudTrail · VPC Flow Logs |
+| Infrastructure as Code | Terraform · CI/CD security gates · Auto-remediation |
+| Identity & Access | Entra ID · RBAC · Conditional Access · RACF |
 
-### AWS Security Logging Pipeline *(Coming Soon)*
-Terraform-deployed CloudTrail, GuardDuty, VPC Flow Logs, 
-and auto-remediation across AWS environments.
+---
+
+## 🚀 Featured Projects
+
+### [🛡️ Secure Multi-Tier AWS VPC](https://github.com/JoeKollie01/aws-secure-multi-tier-vpc)
+Production-style 4-tier AWS VPC across 2 AZs with 
+least-privilege security group chaining, VPC Flow Logs, 
+bastion host access control, and live-verified security 
+controls. Direct SSH to private instances blocked and 
+confirmed via network timeout test.
+
+`AWS` `VPC` `Security Groups` `CloudWatch` `EC2` `Flow Logs`
+
+---
+
+### [📊 AWS Security Logging Pipeline](https://github.com/JoeKollie01) *(In Progress)*
+Terraform-deployed security baseline — CloudTrail 
+multi-region, GuardDuty, VPC Flow Logs, and S3 log 
+storage with encryption and lifecycle management.
+One command to deploy an entire org security baseline.
+
+`Terraform` `CloudTrail` `GuardDuty` `IaC` `AWS`
+
+---
 
 ## 🎓 Certifications
-- AWS Certified Cloud Practitioner
-- Cisco CCNA
-- Fortinet NSE2
-- AWS SAA — In Progress
-- M.S. Cybersecurity — In Progress
+
+- ✅ AWS Certified Cloud Practitioner
+- ✅ Cisco CCNA
+- ✅ Fortinet NSE2
+- 🔄 AWS Solutions Architect Associate — In Progress
+- 🔄 M.S. Cybersecurity — Strayer University
+
+---
 
 ## 📡 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joe_Kollie-blue)](https://linkedin.com/in/joe-kollie-a38711148)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joe_Kollie-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/joe-kollie-a38711148)
+[![GitHub](https://img.shields.io/badge/GitHub-JoeKollie01-181717?style=flat&logo=github)](https://github.com/JoeKollie01)
