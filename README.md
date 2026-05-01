@@ -28,7 +28,7 @@ confirmed via network timeout test.
 
 ---
 
-### [📊 AWS Security Logging Pipeline](https://github.com/JoeKollie01) *(In Progress)*
+### [📊 AWS Security Logging Pipeline](https://github.com/JoeKollie01)
 Terraform-deployed security baseline — CloudTrail 
 multi-region, GuardDuty, VPC Flow Logs, and S3 log 
 storage with encryption and lifecycle management.
