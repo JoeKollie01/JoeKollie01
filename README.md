@@ -1,4 +1,4 @@
-# Joe Kollie — Cloud Security Engineer
+# Joe Kollie - Cloud Security Engineer
 
 > Building AWS security infrastructure in public.
 
