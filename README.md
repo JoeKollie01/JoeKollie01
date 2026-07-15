@@ -44,7 +44,6 @@ One command to deploy an entire org security baseline.
 - ✅ Cisco CCNA
 - ✅ Fortinet NSE2
 - 🔄 AWS Solutions Architect Associate — In Progress
-- 🔄 M.S. Cybersecurity — Strayer University
 
 ---
 
