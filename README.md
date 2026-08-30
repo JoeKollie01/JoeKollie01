@@ -43,7 +43,7 @@ One command to deploy an entire org security baseline.
 - ✅ AWS Certified Cloud Practitioner
 - ✅ Cisco CCNA
 - ✅ Fortinet NSE2
-- 🔄 AWS Solutions Architect Associate — In Progress
+- ✅ AWS Solutions Architect Associate 
 
 ---
 
