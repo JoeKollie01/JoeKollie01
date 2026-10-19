@@ -46,7 +46,7 @@ Reusable, secure-by-default S3 module: enforced public access block, encryption 
 
 ---
 
-### [🔁 Terraform State Refactoring Lab](https://github.com/JoeKollie01/terraform-state-refactoring-lab)
+### [🔁 Terraform State Refactoring Lab](https://github.com/JoeKollie01/terraform-state-refactoring-lab.git)
 Scenario-based lab for refactoring a legacy Terraform config **without destroying anything**: renaming with `moved` blocks, migrating `count` to `for_each`, extracting modules, importing hand-made resources with `import` blocks, splitting state between teams with `removed` blocks, and recovering from state mistakes.
 
 `Terraform` `State Management` `moved` `import` `removed` `Refactoring`
