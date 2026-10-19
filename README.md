@@ -39,7 +39,7 @@ Terraform-deployed security baseline: multi-region CloudTrail, GuardDuty, VPC Fl
 
 ---
 
-### [🧱 Secure S3 Bucket Terraform Module](https://github.com/JoeKollie01/terraform-aws-s3-bucket-module)
+### [🧱 Secure S3 Bucket Terraform Module](https://github.com/JoeKollie01/terraform-aws-s3-bucket-module.git)
 Reusable, secure-by-default S3 module: enforced public access block, encryption (AES256 or KMS), HTTPS-only bucket policy, versioning, and mandatory tags that callers can't override. Unit tested with `terraform test` and mocked providers (no AWS credentials needed), validated in GitHub Actions CI, and released with semantic versioning and Git tags.
 
 `Terraform` `Modules` `terraform test` `GitHub Actions` `S3` `Security by Default`
